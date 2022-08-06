@@ -1,4 +1,4 @@
-#Bug ID : 1
+# Bug ID : 1
 
 Summary: Creating password with only "Spaces"
 

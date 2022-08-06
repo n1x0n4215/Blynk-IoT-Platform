@@ -1,6 +1,4 @@
-#Bug ID : 2
-
-Summary: Incorrect display of the title in Blynk Blog
+# Bug ID : 2
 
 Screenshot: https://ibb.co/xC46VPn
 

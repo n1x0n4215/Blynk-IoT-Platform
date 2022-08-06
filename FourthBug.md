@@ -1,4 +1,4 @@
-#Bug ID : 4
+# Bug ID : 4
 
 Summary: Disproportionately large picture in the Login section
 

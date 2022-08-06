@@ -1,4 +1,4 @@
-#Bug ID : 3
+# Bug ID : 3
 
 Summary: LogIn with only "Spaces" password
 
